@@ -1,8 +1,7 @@
-import './App.css';
+import './App.scss';
 
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import CustomCursor from './components/CustomCursor';
 import Header from './components/Header';
 import Featured from './components/Featured';
 import About from './components/About';
@@ -13,7 +12,6 @@ import Gallery from './components/Gallery';
 function App() {
   return (
     <>
-    <CustomCursor />
     <div className="main-container" id="main-container">
       <Navbar />
       <Header />

@@ -1,0 +1,17 @@
+
+$bg-color: #f5f0ec;
+
+body {
+  background-color: $bg-color;
+}
+
+.main-container{
+  padding: 0 5vw;;
+}
+
+section {
+  padding: 100px 0;
+  .section-header{
+    margin-bottom: 50px;
+  }
+}
