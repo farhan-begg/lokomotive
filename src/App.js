@@ -19,10 +19,6 @@ function App() {
       <About />
       <Gallery />
       <Footer />
-
-
-
-
     </div>
     
     
